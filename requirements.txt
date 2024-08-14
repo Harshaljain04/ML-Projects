@@ -1,3 +1,6 @@
 pandas
 numpy
 seaborn
+
+# run python -m pip install -e .
+# This will enable the editable mode and initiate the build of setup.py
